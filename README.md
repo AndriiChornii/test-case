@@ -9,10 +9,10 @@ In the <a href="https://walkme.dog">Walkme App</a> project, I actively created t
 All next examples will be provided as screenshots from the Testiny platform that I as desired for hodling QA documentation
 
 Screenshot of Test Case 1:
-![Screenshot 1](https://github.com/AndriiChornii/test-plan/blob/main/assets/TestPlan1.png)
+![Screenshot 1](https://github.com/AndriiChornii/test-case/blob/main/assets/TestCase1.png)
 
 Screenshot of Test Case 2:
-![Screenshot 1](https://github.com/AndriiChornii/test-plan/blob/main/assets/TestPlan2.png)
+![Screenshot 1](https://github.com/AndriiChornii/test-case/blob/main/assets/TestCase2.png)
 
 Screenshot of Test Case 3:
-![Screenshot 1](https://github.com/AndriiChornii/test-plan/blob/main/assets/TestPlan3.png)
+![Screenshot 1](https://github.com/AndriiChornii/test-case/blob/main/assets/TestCase3.png)

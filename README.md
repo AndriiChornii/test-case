@@ -6,7 +6,7 @@
 
 In the <a href="https://walkme.dog">Walkme App</a> project, I actively created test cases because there was an urgent need for test documentation.
 
-All next examples will be provided as screenshots from the Testiny platform that I as desired for hodling QA documentation
+All next examples will be provided as screenshots from the Testiny platform that I desired for holding QA documentation
 
 Screenshot of Test Case 1:
 ![Screenshot 1](https://github.com/AndriiChornii/test-case/blob/main/assets/TestCase1.png)
